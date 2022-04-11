@@ -1,0 +1,11 @@
+p {
+  color: aqua;
+  text-align: center;
+  -webkit-text-decoration: dashed;
+          text-decoration: dashed;
+}
+
+body {
+  font-size: 50px;
+}
+/*# sourceMappingURL=style.css.map */
